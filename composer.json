@@ -1,9 +1,9 @@
 {
-	"name": "cosenary/instagram",
+	"name": "tuxxx128/instagram",
 	"type": "library",
 	"description": "An easy-to-use PHP Class for accessing Instagram's API.",
 	"keywords": ["instagram", "api"],
-	"homepage": "https://github.com/cosenary/Instagram-PHP-API",
+	"homepage": "https://github.com/tuxxx128/Instagram-PHP-API",
 	"license": "BSD",
 	"authors": [
 		{
