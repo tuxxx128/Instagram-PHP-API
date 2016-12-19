@@ -21,11 +21,6 @@
 			"MetzWeb\\Instagram\\": "src"
 		}
 	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "2.4-dev"
-		}
-	},
-	"minimum-stability": "dev",
+	"minimum-stability": "dev-master",
 	"prefer-stable": true
 }
